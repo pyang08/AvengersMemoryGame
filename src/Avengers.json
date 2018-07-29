@@ -1,26 +1,56 @@
 [
   {
     "id": 1,
-    "name": "ironman",
+    "name": "Ant Man",
     "image":
-      "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/antman.jpeg?raw=true"
   },
   {
     "id": 2,
-    "name": "Mr. Krabs",
+    "name": "Black Panther",
     "image":
-      "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/blackpanther.jpg?raw=true"
   },
   {
     "id": 3,
-    "name": "Squidward",
+    "name": "Hulk",
     "image":
-      "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/hulk.jpg?raw=true"
+  },
+    {
+    "id": 4,
+    "name": "Iron Man",
+    "image":
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/ironman.jpg?raw=true"
+  },
+    {
+    "id": 5,
+    "name": "Nick Fury",
+    "image":
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/nickfury.jpg?raw=true"
+  },
+    {
+    "id": 6,
+    "name": "Spiderman",
+    "image":
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/spiderman.jpg?raw=true"
+  },
+    {
+    "id": 7,
+    "name": "Thor",
+    "image":
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/thor.jpg?raw=true"
+  },
+    {
+    "id": 8,
+    "name": "Wanda Maximoff",
+    "image":
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/wandamaximoff.jpg?raw=true"
+  },
+    {
+    "id": 9,
+    "name": "Vision",
+    "image":
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/Vision_Forest.jpg?raw=true"
   }
 ]
