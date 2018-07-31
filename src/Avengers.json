@@ -3,54 +3,84 @@
     "id": 1,
     "name": "Ant Man",
     "image":
-      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/antman.jpeg?raw=true"
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/antman.jpeg?raw=true",
+      "count": 0
   },
   {
     "id": 2,
     "name": "Black Panther",
     "image":
-      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/blackpanther.jpg?raw=true"
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/blackpanther.jpg?raw=true",
+      "count": 0
   },
   {
     "id": 3,
     "name": "Hulk",
     "image":
-      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/hulk.jpg?raw=true"
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/hulk.jpg?raw=true",
+      "count": 0
   },
     {
     "id": 4,
     "name": "Iron Man",
     "image":
-      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/ironman.jpg?raw=true"
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/ironman.jpg?raw=true",
+      "count": 0
   },
     {
     "id": 5,
     "name": "Nick Fury",
     "image":
-      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/nickfury.jpg?raw=true"
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/nickfury.jpg?raw=true",
+      "count": 0
   },
     {
     "id": 6,
     "name": "Spiderman",
     "image":
-      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/spiderman.jpg?raw=true"
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/spiderman.jpg?raw=true",
+      "count": 0
   },
     {
     "id": 7,
     "name": "Thor",
     "image":
-      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/thor.jpg?raw=true"
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/thor.jpg?raw=true",
+      "count": 0
   },
     {
     "id": 8,
     "name": "Wanda Maximoff",
     "image":
-      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/wandamaximoff.jpg?raw=true"
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/wandamaximoff.jpg?raw=true",
+      "count": 0
   },
     {
     "id": 9,
     "name": "Vision",
     "image":
-      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/Vision_Forest.jpg?raw=true"
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/Vision_Forest.jpg?raw=true",
+      "count": 0
+  },
+      {
+    "id": 10,
+    "name": "Shuri",
+    "image":
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/shuri.jpeg?raw=true",
+      "count": 0
+  },
+      {
+    "id":11,
+    "name": "Captain America",
+    "image":
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/captainamerica.jpg?raw=true",
+      "count": 0
+  },
+      {
+    "id": 12,
+    "name": "Black Widow",
+    "image":
+      "https://github.com/pyang08/AvengersMemoryGame/blob/master/src/assets/images/blackwidow.jpg?raw=true",
+      "count": 0
   }
 ]
